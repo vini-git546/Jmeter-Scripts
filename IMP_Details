@@ -1,0 +1,49 @@
+Project Name  :       Talenda Social Recruiting Network
+ 
+Project Code   :       PROJ-002846
+ 
+Project Category  :  Job Portal Social Networking
+ 
+
+
+
+Description   :
+The Main Idea is to develop a social recruiting network for candidates and recruiters. Each time a candidate logs in via one of his social networks (Facebook, LinkedIn, Google+ or Twitter) or via his e-mail, his profile (skills, interests, work experience, country etc.) is matched with current job openings that fits his profile. If the job does not fit or the candidate is not interested, he may know who of his friends (which are outside Talenda network, but inside their social network, e.g. FB or LinkedIn etc.) could fit and may recommend this job to them and invite them to join Talenda. As a result each job offer from recruiter "travels" to person that fits and is interested in job.
+ 
+Users can manually add or modify professional information that was imported from the social network profile they logged in with (including education and work experience). Users are notified when a job posting matches their profile, when companies view their Job Profile.
+ 
+Companies can see candidates' professional profiles and their "social profiles," consisting of connections that candidates have with company employees and referrals. Candidates are matched with companies based on these two profiles.
+ 
+Candidates see jobs that are matched to their profile automatically and they can search for jobs. They can contact all recruiters.
+ 
+Recruiters can post jobs and see automatically candidates that match their job openings and contact them. This is a free service. Companies and their recruiters can search for candidates actively and contact them. This is a paid function. Each recruiter that is added to a company profile pays a separate license.
+
+Technology Stack ::
+
+Database Server : My SQL 5.x
+Operating system : Linux
+Web Server : Apache , Engin-x
+Development Environment : ROR (3.2.8), html.erb , haml, AJAX
+
+
+=====================
+
+Survey
+
+=============
+
+Project Name  :       Survey Module Website
+ 
+Project Code   :       PROJ-002787
+ 
+Project Category  :  Survey
+
+
+Description   :
+This project is basically  for a car survey site.In this the customer will receive car survey based on his profile and car prefernce .The survey's are added by admin and the dealer. The customer can view the car details and can request for test drive & more information.Customer can see the survey on the basses of profile questions(Set By Admin).Lead generated and assign to dealer on the geographical bases.Dealer assign the lead(task) to executive on Round robin method. The Dealer's executive contact the customer .
+
+
+Database Server : Postgress V9.1
+Operating system : Linux,Engin-x
+Web Server : Apache
+Development Environment : Development Environment:- RoR 3.2.8 , html.erb , haml, AJAX
